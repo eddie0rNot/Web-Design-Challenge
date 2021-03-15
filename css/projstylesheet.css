@@ -1,69 +1,17 @@
-h1 {
-    text-align: center;
-    background-color: grey;
-    color: red;
-  }
-  
-  
-  h3 {
-    color: orange;
-  }
-  
-
-  
-  section {
-    background-color: #000;
-  }
-  
-  p {
-    font-size: 15px;
-    color: gray;
-  }
-  
-  ul {
-    border-style: solid;
-    color: rgb(93, 245, 66);
-  }
-
-
-  a.nav-link1 {
-    text-align: left;
-    font-size: 15px;
+a {
+    align: left;
+    font: 15px cursive, serif;
+    background-color:  rgb(0, 0, 0);
     font-color: rgb(255, 236, 66);
-/* height: 100px;
-    line-height: 100px */
-  }
-  a.nav-link2 {
+    border: 2px solid;
+    border-color:  rgb(255, 236, 66);
+    color: rgb(255, 236, 66);
+    padding: 15px 32px;
     text-align: center;
-    font-size: 15px;
-    font-color: rgb(255, 236, 66);
- /* height: 100px;
-    line-height: 100px */
-  }
-  a.nav-link3 {
-    text-align: right;
-    font-size: 15px;
-    font-color: rgb(255, 236, 66);
-/* height: 100px;
-    line-height: 100px */
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px;
+   }
+ 
+ 
 
-  }
-  
-  div {
-    font-size: 15px;
-    text-align: center;
-    color: rgb(0,0,255);
-    background-color: rgb(93, 245, 66);
-  }
-
-  a.navbar-brand {
-    font-size: 20px;
-    color: rgb(0,0,255);
-    background-color: rgb(255, 0, 0);
-  }
-
-  div.col03 {
-    font-size: 20px;
-    color: rgb(0,0,255);
-    background-color: rgb(255, 255, 0);
-  }
