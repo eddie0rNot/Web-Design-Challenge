@@ -25,6 +25,12 @@ a {
     display: inline-block;
     border-radius: 8px;
    }
+
+   .container {
+    width: 10px;
+    margin: 0 auto;
+  }
+  
  
  
 
