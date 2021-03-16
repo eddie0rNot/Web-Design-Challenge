@@ -1,6 +1,6 @@
 h1{
     align: center;
-    font: 30px OCR A Std, monospace;
+    font: 45px monospace, monospace;
     background-color:  rgb(0, 0, 0);
     font-color: rgb(255, 236, 66);
     border: 2px solid;
@@ -11,9 +11,11 @@ h1{
     text-decoration: none;
 }
 
+
+
 a {
     align: left;
-    font: 15px cursive, serif;
+    font: 20px monospace, monospace;
     background-color:  rgb(0, 0, 0);
     font-color: rgb(255, 236, 66);
     border: 2px solid;
